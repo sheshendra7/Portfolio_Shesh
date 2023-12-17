@@ -1,6 +1,6 @@
 # Hello 👋🏻, This is my Personal Portfolio
 
-[Live Here](https://portfolio.tarunchawla.tech).
+[Live Here](https://sheshendra.tech).
 
 ## Tech Stack
 
