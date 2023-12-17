@@ -16,7 +16,7 @@ This project was built with
 - Step 2: Fork this repo.
 - Step 3: Copy these commands and paste them to you terminal.
 ```bash
-git clone git@github.com:tcchawla/final-portfolio.git
+git clone https://github.com/sheshendra7/Portfolio_Shesh.git
 cd project-name
 npm install
 ```
@@ -24,11 +24,7 @@ Finally when all these steps are completed.
 - Step 4: Run `npm start` <br />
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Or Run via Docker
-```bash
-docker run --name some-website -p 3000:80 -d tarunchawla36/react-portfolio
-```
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 
 Congrats! You can now make your own stunning portfolio by changing a few things according to your need.
 
