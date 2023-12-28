@@ -46,11 +46,7 @@ export const NavBar = () => {
                             className={activeLink === 'skills' ? 'active navbar-link' : 'navbar-link'} 
                             onClick={() => onUpdateActiveLink('skills')}
                         >Skills</Nav.Link>
-                        {/* <Nav.Link 
-                            href="#blog" 
-                            className={activeLink === 'blog' ? 'active navbar-link' : 'navbar-link'} 
-                            onClick={() => window.open('https://tarunchawla.hashnode.dev')}
-                        >Blog</Nav.Link> */}
+                        
                         <Nav.Link 
                             href="#contact"
                             className={activeLink === 'contact' ? 'active navbar-link' : 'navbar-link'} 
@@ -64,13 +60,12 @@ export const NavBar = () => {
                         target="_blank"
                         style={{ maxWidth: "250px" }}
                     >
-                        &nbsp;Download CV
+                        &nbsp;Download Resume
                     </Button>
                     <span className="navbar-text">
                         <div className="social-icon">
                             <a href="https://www.linkedin.com/in/sheshendra-d-9b13b0183" target="_blank" rel="noopener noreferrer"><img src={navIcon1} alt="LinkedIn" /></a>
                             <a href="https://github.com/sheshendra7" target="_blank" rel="noopener noreferrer"><img src={github} alt="GitHub" /></a>
-                            {/* <a href="https://www.twitter.com/tarunchawla36" target="_blank" rel="noopener noreferrer"><img src={twitter} alt="Twitter" /></a> */}
                         </div>
                     </span>
                 </Navbar.Collapse>
