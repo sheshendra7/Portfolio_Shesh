@@ -210,7 +210,7 @@ import {
         },
       ],
       image: notes,
-      source_code_link: "https://github.com/sheshendra7",
+      source_code_link: "https://github.com/sheshendra7/Notes-Backend.git",
     },
     {
       name: "E-Commerce Website",
@@ -231,7 +231,7 @@ import {
         },
       ],
       image: ecommerce,
-      source_code_link: "https://github.com/sheshendra7",
+      source_code_link: "https://github.com/sheshendra7/E-commerce-Backend.git",
     },
     {
       name: "Tic-Tac-Toe",
