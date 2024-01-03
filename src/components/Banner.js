@@ -47,8 +47,9 @@ export const Banner = () => {
                     <Col xs={12} md={6} xl={7}>
                         <h1>
                             {`Hi, I'm Sheshendra Desiboyina `}
+                            <br></br>
                             <span className="wrap">{text}</span>
-                        </h1>
+                        </h1>                       
                         <br></br>
                         <p>About Me!</p>
                         <p className="text-white">I'm a curious and creative problem solver with a passion for technology and a love for learning. My journey in the world of software engineering began with tinkering with computers and building my own websites as a hobby, and it has evolved into a career that brings me joy every day.</p>
