@@ -5,7 +5,7 @@ import logo from '../assets/img/logo.png';
 import navIcon1 from '../assets/img/nav-icon1.svg';
 import github from '../assets/img/github.svg';
 import twitter from '../assets/img/twitter.svg';
-import pdf from '../assets/resume 4.0.pdf';
+import pdf from '../assets/Full stack.pdf';
 
 
 export const NavBar = () => {

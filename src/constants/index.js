@@ -18,7 +18,7 @@ import {
     docker,
     java,
     truvisory,
-    mindsdb,
+    startup,
     infosys,
     imagerecognizer,
     jobit,
@@ -118,22 +118,22 @@ import {
   ];
   
   const experiences = [
-    // {
-    //   title: "Snowflake Integration Maintainer",
-    //   company_name: "MindsDB",
-    //   icon: mindsdb,
-    //   iconBg: "#383E56",
-    //   date: "June 2023 - Present",
-    //   points: [
-    //     "Maintaining and supporting the Snowflake integration for MindsDB, ensuring proper functionality and extensive documentation.",
-    //     "Building new releases periodically on the Snowflake integration based on the community feedback to improve the product insights.",
-    //     "Providing technical expertise and troubleshooting integration-related queries to assist the community over GitHub, Slack.",
-    //     "Curating Technical Blogs, Tutorials around the new/existing integrations developed by the community members.",
-    //     "Collaborating with teams to improve existing integrations, address feedback, and ensure seamless connectivity for the users.",
-    //   ],
-    // },
     {
-      title: "Software Developer",
+      title: "Software Engineer",
+      company_name: "Stealth Startup",
+      icon: startup,
+      iconBg: "#383E56",
+      date: "August 2023 - Present",
+      points: [
+        "Led the development of a responsive React front-end, resulting in a 20% increase in mobile conversion rate and a 95% user satisfaction rating.",
+        "Established a scalable Node.js and Express.js back-end infrastructure, reducing data processing time by 30% and improving system uptime by 99.5%.",
+        "Providing technical expertise and troubleshooting integration-related queries to assist the community over GitHub, Slack.",
+        "Utilized MongoDB for efficient and secure data management, enabling rapid retrieval of critical business data within 100 milliseconds.",
+        "Collaborating with teams to improve existing integrations, address feedback, and ensure seamless connectivity for the users.",
+      ],
+    },
+    {
+      title: "Software Engineer",
       company_name: "INFOSYS",
       icon: infosys,
       iconBg: "#383E56",
@@ -150,7 +150,7 @@ import {
       company_name: "INFOSYS",
       icon: infosys,
       iconBg: "#383E56",
-      date: "July 2020 - June 2021",
+      date: "July 2019 - June 2021",
       points: [
         "Developed unit test cases for the data access layer and business components using Junit. Used Log4j to log messages of application for debugging and tracking purposes.",
         "Utilized JIRA for bug tracking. Experience in working with version control system GIT and Maven build tool to maintain Project dependencies.",

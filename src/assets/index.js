@@ -29,6 +29,7 @@ import java from "./company/java.png";
 import truvisory from "./company/truvisory.png";
 import infosys from "./company/Infosys.png";
 import stevens from "./company/stevens.png";
+import startup from   "./company/stealth_stratup.jpeg"; 
 import mindsdb from "./company/mindsdb_photo.png";
 
 
@@ -43,6 +44,7 @@ import ecommerce from "./E-commerce.jpg";
 import tictac from "./tic-tac-toe.jpg";
 
 export {
+  startup,
   tictac,
   logo,
   ecommerce,
